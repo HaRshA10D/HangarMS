@@ -1,0 +1,33 @@
+#div2{
+    margin-top: 75px;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    width: 99.5%;
+    height: 550px;
+}
+.inputs[type=text]:focus {
+    border: 2px solid #555;
+}
+.inputs[type=password]:focus {
+    border: 2px solid #555;
+}
+.button{
+    color: white;
+    background-color: #333030;
+    border: none;
+    cursor: pointer; 
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+.button:hover{
+    box-shadow: 2px 2px 8px #888888;
+}
+.inputs{
+    padding: 5px;
+}
+.form2{
+    margin-top: 100px;
+    position: absolute;
+    width: 100%;
+}

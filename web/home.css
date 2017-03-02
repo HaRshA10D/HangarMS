@@ -1,0 +1,13 @@
+body{
+    font-family: opensans;    
+}
+.w3-container w3-indigo{
+    box-shadow: 2px 2px 2px black;
+}
+#w3-container{
+    padding-left: 20px; 
+    font-family: sans-serif;
+}
+.w3-btn-block w3-indigo{
+    height: 50px;
+}

@@ -1,0 +1,10 @@
+#div2{
+    height: 100%;
+    width: 99.5%;
+    background-color: white;
+    margin-top: 75px;
+    position: relative;
+}
+td,th{
+                border: 1px solid #000;
+            }
